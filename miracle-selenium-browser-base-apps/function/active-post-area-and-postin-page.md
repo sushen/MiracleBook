@@ -3,6 +3,9 @@
 
 
 ```text
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+
 def activePostAreaAndPostInPage():
     driver.implicitly_wait(10)
     actions.send_keys(Keys.BACK_SPACE)
