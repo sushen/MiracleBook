@@ -12,4 +12,5 @@
     * [Function for chrome browser](miracle-selenium-browser-base-apps/function/function-for-chrome-browser.md)
     * [Function for Keybord actions](miracle-selenium-browser-base-apps/function/function-for-keybord-actions.md)
     * [Function for Login](miracle-selenium-browser-base-apps/function/function-for-login.md)
+    * [Navigate Page Post Aria](miracle-selenium-browser-base-apps/function/navigate-page-post-aria.md)
 
