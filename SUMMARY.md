@@ -15,4 +15,5 @@
     * [Function for Login](miracle-selenium-browser-base-apps/function/function-for-login.md)
     * [Navigate Page Post Aria](miracle-selenium-browser-base-apps/function/navigate-page-post-aria.md)
     * [Active post area and postin page](miracle-selenium-browser-base-apps/function/active-post-area-and-postin-page.md)
+    * [Validation](miracle-selenium-browser-base-apps/function/validation.md)
 
