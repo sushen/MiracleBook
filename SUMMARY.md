@@ -6,6 +6,7 @@
 * [Applications](applications.md)
 * [Miracle Selenium Browser Base Apps](miracle-selenium-browser-base-apps/README.md)
   * [Facebook Posting](miracle-selenium-browser-base-apps/facebook-posting.md)
+  * [FacebookGroupPosting](miracle-selenium-browser-base-apps/facebookgroupposting.md)
   * [Break Down it into Calss](miracle-selenium-browser-base-apps/break-down-it-into-calss.md)
   * [Function](miracle-selenium-browser-base-apps/function/README.md)
     * [Function for open driver](miracle-selenium-browser-base-apps/function/function-for-open-driver.md)
